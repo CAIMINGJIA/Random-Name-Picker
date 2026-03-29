@@ -1,19 +1,19 @@
-# Random-Name-Picker
+#Random-Name-Picker
 Demand by senior high school teacher,I created this repository.
 
-format:
+##format:
 name
 name
 ...
 name
 number;
 
-The name divided by space that you enter will be add to the name list,and the number you enter in the last line is the number
+##The name divided by space that you enter will be add to the name list,and the number you enter in the last line is the number
 of the random name;
 
-example:
+##example:
 
-input:
+##input:
 John
 Alice
 Tom
@@ -22,6 +22,6 @@ Dick
 Caixukun
 2
 
-output:
+##output:
 Dick
 Tom
